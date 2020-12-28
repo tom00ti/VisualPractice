@@ -9,4 +9,4 @@ Anaconndaを使っている場合、condaでインストールすること
 
 ##### PonGame 
 
-- git test
+- 
